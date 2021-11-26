@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bexter89
-- 👀 I’m interested in transitioning careers and becoing a full-stack engineer. I have a background in graphic design and studio art. 
+- 👋 Hi, I’m Rebekah! 
+- 👀 I’m interested in transitioning careers and becoing a full-stack engineer. I have a background in graphic design and studio art, as well as managment in the food, beverage and hospitality industry. 
 - 💞️ I’m looking to collaborate on projects to practice coding. 
 - 📫 You can email me at rebekah.cruz702@gmail.com to collaborate! 
 
