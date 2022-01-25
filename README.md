@@ -2,7 +2,7 @@
 - 😄 Pronouns: she/her/hers
 - 🤠 I currently live in Austin, Texas
 - 👩‍💻 I am a former food, beverage and hospitality professional turned Software Engineer.
-- 🌶 Fun fact: I am the 2014 Daiblo Salsa-eating champion, haven consumed 28oz of diablo salsa in less than 10min. 
+- 🌶 Fun fact: I am the 2014 Daiblo Salsa-eating champion, having consumed 28oz of diablo salsa in less than 10min. 
 --    the record is still unbroken, many were smarter than I.
 
 
