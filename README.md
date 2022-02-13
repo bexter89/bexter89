@@ -28,10 +28,12 @@
       <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
       <img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      <img alt="Expres.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img alt="Babel" src="https://img.shields.io/badge/babel-yellow?style=for-the-badge&logo=babel&logoColor=black" />
       <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-      <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
+      <img alt="MUI" src="https://img.shields.io/badge/Material%20UI-027FFF?style=for-the-badge&logo=mui&logoColor=white" />
+      <img alt="Bulma" src="https://img.shields.io/badge/Bulma-03D1B2?style=for-the-badge&logo=bulma&logoColor=white"/>
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </td>
   </tr>
@@ -46,7 +48,9 @@
     <td>Hosting</td>
     <td>
       <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB Atlas-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-30C8C9?style=for-the-badge&logo=netlify&logoColor=white"/>
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=githubpages&logoColor=white"/>
+      <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img alt="Firestore" src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
