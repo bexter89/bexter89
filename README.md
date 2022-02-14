@@ -35,6 +35,7 @@
       <img alt="MUI" src="https://img.shields.io/badge/Material%20UI-027FFF?style=for-the-badge&logo=mui&logoColor=white" />
       <img alt="Bulma" src="https://img.shields.io/badge/Bulma-03D1B2?style=for-the-badge&logo=bulma&logoColor=white"/>
       <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img alt="StyledComponents" src="https://img.shields.io/badge/Styled%20Components-212121?style=for-the-badge&logo=styledcomponents&logoColor=pink"/>
     </td>
   </tr>
   <tr>
