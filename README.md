@@ -48,8 +48,8 @@
     <tr>
     <td>Testing</td>
       <td>
-        <img alt="Cypress" src="https://img.shields.io/badge/cypress-212121?style=for-the-badge&logo=cypress&logoColor=grey"/>
-        <img alt="Jest" src="https://img.shields.io/badge/jest-C3441A?style=for-the-badge&logo=jest&logoColor=white"/>
+        <img alt="Cypress" src="https://img.shields.io/badge/cypress-%212121.svg?style=for-the-badge&logo=cypress&logoColor=grey"/>
+        <img alt="Jest" src="https://img.shields.io/badge/jest-%C3441A.svg?style=for-the-badge&logo=jest&logoColor=white"/>
       </td>
     </tr>
   <tr>
@@ -59,7 +59,7 @@
       <img alt="Netlify" src="https://img.shields.io/badge/Netlify-30C8C9?style=for-the-badge&logo=netlify&logoColor=white"/>
       <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=githubpages&logoColor=white"/>
       <img alt="MongoDB Atlas" src="https://img.shields.io/badge/MongoDB%20Atlas-%2343853D.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img alt="Firestore" src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img alt="Firestore" src="https://img.shields.io/badge/firebase-yellow.svg?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
@@ -67,7 +67,7 @@
     <td>
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img alt="Firebase" src="https://img.shields.io/badge/firestore-important?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img alt="Firebase" src="https://img.shields.io/badge/firestore-important.svg?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
   </tr>
 </table>
