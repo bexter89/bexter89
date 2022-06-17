@@ -47,11 +47,11 @@
   </tr>
     <tr>
     <td>Testing</td>
-    <td>
-      <img alt="Cypress" src="https://img.shields.io/badge/cypress-212121?style=for-the-badge&logo=cypress&logoColor=grey" />
-      <img alt="Jest" src="https://img.shields.io/badge/jest-30C8C9?style=for-the-badge&logo=jest&logoColor=white"/>
-    </td>
-  </tr>
+      <td>
+        <img alt="Cypress" src="https://img.shields.io/badge/cypress-212121?style=for-the-badge&logo=cypress&logoColor=grey"/>
+        <img alt="Jest" src="https://img.shields.io/badge/jest-C3441A?style=for-the-badge&logo=jest&logoColor=white"/>
+      </td>
+    </tr>
   <tr>
     <td>Hosting</td>
     <td>
